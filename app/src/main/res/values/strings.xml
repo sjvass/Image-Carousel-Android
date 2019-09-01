@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image Carousel2</string>
+    <string name="right_btn">right</string>
+    <string name="left_btn">left</string>
+    <string name="img1">dog dressed as banana</string>
+    <string name="img2">cat dressed as snow white</string>
+    <string name="img3">dog dressed as donald duck</string>
+    <string name="img4">gunie pigs dressed as dinosours</string>
+    <string name="img5">tortoise dressed as burger</string>
+</resources>
